@@ -28,16 +28,16 @@ a:hover {
   transition: color 2s;
   transition: size 2s;
 }
-.container{
-  width: 600px;
-  margin: auto;
-}
 .card-white{
   background-color: #e9c46a;
   border-radius: 5px;
   text-align: center;
   padding: 1 px;
   box-shadow: 0px 10px 30px rgba(0,0,0,0.7);
+}
+.container{
+  width: 600px;
+  margin: auto;
 }
 .card{
   background-color: #e9c46a;
